@@ -10,4 +10,4 @@ In this project, we are given an array of symbols with corresponding frequencies
 
 The .s file is the assembly source code for the encoder, and the text file is an example input for the encoder. For the given text file, the output is 000001011. Attached below is the compiler output:
 
-![]("EncoderOutput.png")
+![](EncoderOutput.png)
